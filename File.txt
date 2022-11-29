@@ -1,4 +1,5 @@
 ini file baru
+<<<<<<< HEAD
 tambah text
 buang semua puisi
 antara kita berdua
@@ -9,3 +10,6 @@ fsdfasdf
 sdfsfdsdfsdfsdf
 
 sdfsfdsdf
+=======
+tambah text
+>>>>>>> parent of 7bfbd90 (commit terus)
